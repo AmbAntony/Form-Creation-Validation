@@ -1,4 +1,0 @@
-# Form-Creation-Validation
- In this project, we will develop a user registration form with validation and fetch user data from a public API. This project will enhance  understanding of form validation, DOM manipulation, and asynchronous JavaScript. We'll implement a form validation script using basic JavaScript string methods and conditions. Upon form submission, we'll validate the input fields for username, email, and password according to a specific criteria. Then, we'll display a success message if all validations pass, or appropriate error messages if any validations fail.
-
- Clone and try. Have fun!
